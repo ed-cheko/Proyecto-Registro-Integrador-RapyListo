@@ -1,0 +1,2 @@
+A001	Alimento	null
+P001	Mascara	4

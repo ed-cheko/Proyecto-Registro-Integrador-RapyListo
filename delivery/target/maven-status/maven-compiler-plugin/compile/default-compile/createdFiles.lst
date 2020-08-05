@@ -1,0 +1,10 @@
+pe\edu\upeu\tablas\Productos.class
+pe\edu\upeu\utils\AppCrud.class
+pe\edu\upeu\utils\PedidosDao.class
+pe\edu\upeu\utils\LeerTeclado.class
+pe\edu\upeu\tablas\Pedidos.class
+pe\edu\upeu\utils\LeerArchivo.class
+pe\edu\upeu\tablas\Clientes.class
+pe\edu\upeu\tablas\Proveedores.class
+pe\edu\upeu\delivery\delivery.class
+pe\edu\upeu\tablas\Territorios.class
